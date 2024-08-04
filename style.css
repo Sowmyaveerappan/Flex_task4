@@ -1,0 +1,30 @@
+.container{
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container__1{
+    background-color: black;
+    height: 150px;
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+div{
+    background-color: orangered;
+    height:12px;
+    width: 75px;
+    margin-top: 8px;
+    border-radius: 5px;
+
+
+}
